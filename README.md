@@ -114,3 +114,8 @@ Repositori ini tersedia di GitHub: [github.com/saputrabudi/chatollama](https://g
 ---
 
 ### 👨‍💻 Developed by Saputra Budi 
+
+![chatollama-a](https://github.com/user-attachments/assets/aa2dead1-cf5a-481f-9479-09615baa5af6)
+
+![chatollama-b](https://github.com/user-attachments/assets/01a22f65-3c00-4f37-b641-bc51416f18bf)
+
