@@ -7,10 +7,7 @@ Aplikasi web chat untuk Ollama model AI menggunakan PHP. Ini adalah aplikasi rin
 - 🎨 UI yang menarik dengan SweetAlert
 - ⚙️ Set IP server Ollama (default: localhost:11434)
 - 🤖 Pilih model AI dari daftar model yang tersedia di server Ollama
-- 📎 Lampirkan file untuk dianalisis oleh model AI
 - 💻 Kode bash dalam chatbox dengan tombol copy
-- 💾 Chat history tersimpan di config.json
-- 🆕 Bisa membuat chat baru
 
 ## 📋 Persyaratan
 
